@@ -1,4 +1,4 @@
-/* To find whether a given number is prime or not*/
+/* To find whether a given number is prime or not */
 #include <bits/stdc++.h>
 using namespace std;
 
