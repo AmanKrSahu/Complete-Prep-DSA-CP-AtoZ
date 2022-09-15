@@ -1,4 +1,4 @@
-/* To generate all prime numbers in the range of 1 to N*/
+/* To generate all prime numbers in the range of 1 to N */
 #include <bits/stdc++.h>
 using namespace std;
 

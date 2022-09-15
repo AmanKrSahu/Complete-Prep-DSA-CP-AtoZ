@@ -1,4 +1,4 @@
-/* To calculate a^N*/
+/* To calculate a^N */
 #include <bits/stdc++.h>
 using namespace std;
 

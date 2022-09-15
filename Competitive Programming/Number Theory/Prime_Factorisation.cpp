@@ -1,4 +1,4 @@
-/* To find prime factorisation of a number N*/
+/* To find prime factorisation of a number N */
 #include <bits/stdc++.h>
 using namespace std;
 
